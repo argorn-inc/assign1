@@ -10,6 +10,7 @@ import Sixth from './components/Component6';
 import Seventh from './components/Component7';
 import Eighth from './components/Component8';
 import Ninth from './components/Component9';
+import Tenth from './components/Component10.js';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Third/>
       <Fourth/>
       <Fifth/>
+      <Tenth/>
     </div>
   );
 }
