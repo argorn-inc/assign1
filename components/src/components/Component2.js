@@ -1,10 +1,13 @@
 import React from 'react';
-import MyPic from '../img/mypic.jpg';
+import pic from '../img/mypic.jpg';
+import './components.css';
 
 function SecondComponent(){
     return(
-        <p>Attempting to import a picture</p>
-        
+        <div class="pic_component">
+        <p>Attempting to import a picture below</p>
+        <img class="pic" src={pic} alt="logo"/>
+        </div>
     );
 }
 
