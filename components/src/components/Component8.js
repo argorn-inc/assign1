@@ -2,7 +2,7 @@ import React from 'react';
 import './components.css';
 
 function EightComponent(){
-    return <p>8th Component. Running out of ideas</p>;
+    return <p><b><u>8th Component. Running out of ideas</u></b></p>;
 
 }
 
