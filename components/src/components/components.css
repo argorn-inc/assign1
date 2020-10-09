@@ -46,3 +46,24 @@
     text-align: center;
     
 }
+.sixth ul{
+    list-style-type: none;
+    margirn:0;
+    padding:0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.sixth ul li{
+    float: left;
+    /* margin-right: 10px;
+    font-size: 20px;*/
+} 
+
+.sixth li a{
+    text-decoration: none;
+    padding: 14px 16px;
+    color: white;
+    display: block;
+
+}
