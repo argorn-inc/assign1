@@ -5,6 +5,7 @@ import First from './components/Component1';
 import Second from './components/Component2';
 import Third from './components/Component3';
 import Fourth from './components/Component4';
+import Fifth from './components/Component5';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Second/>
       <Third/>
       <Fourth/>
+      <Fifth/>
     </div>
   );
 }

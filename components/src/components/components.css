@@ -5,7 +5,7 @@
 }
 .myTable{
     /* border: 2px solid; */
-    width: 100%;
+    width: 50%;
     margin: 0 auto;
     padding: 0 auto;
     position: relative;
@@ -42,4 +42,7 @@
 #me{
     line-height: 100px;
 }
-
+.fifth{
+    text-align: center;
+    
+}
