@@ -3,3 +3,43 @@
     border-radius: 20px;
     width: 120px;
 }
+.myTable{
+    /* border: 2px solid; */
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto;
+    position: relative;
+}
+
+.myTable table,th,td{
+   border: 2px solid black;
+   border-collapse: collapse;
+}
+.myTable table{
+   float: none;
+}
+
+.fourth{
+    margin-top: 20px;
+    /* float: left; */
+}
+
+.fourth a{
+    text-decoration: none;
+    font: 100px;
+    text-transform: capitalize;
+    margin-right: 15px;
+}
+
+.fourth img{
+    size: 30px;
+    height: 70px;
+    border-radius: 50px;
+    border: 2px solid olive;
+    padding-top: 4px;
+
+}
+#me{
+    line-height: 100px;
+}
+

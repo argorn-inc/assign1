@@ -5,6 +5,7 @@ function FirstComponents(){
         <div>
             <h1>Welcome to React Programming</h1>
             <p>This is my Component Assignment. Enjoy!</p>
+            <hr/>
         </div>
     );
 }
