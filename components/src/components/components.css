@@ -67,3 +67,14 @@
     display: block;
 
 }
+
+.seventh{
+    /* float: left;
+    height: 20px;
+    width: 20px; */
+}
+.seventh img{
+    float: left;
+    height: 30px;
+    width: 3;
+}

@@ -7,11 +7,13 @@ import Third from './components/Component3';
 import Fourth from './components/Component4';
 import Fifth from './components/Component5';
 import Sixth from './components/Component6';
+import Seventh from './components/Component7';
 
 
 function App() {
   return (
     <div className="App">
+      <Seventh/>
       <Sixth/>
       <First />
       <Second/>
